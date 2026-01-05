@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: profile
-        image: nkwocha1234/profile-page:v1
+        image: nkwocha1234/profile-page:v2
         ports:
         - containerPort: 80
         resources:
