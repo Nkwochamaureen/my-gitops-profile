@@ -1,7 +1,0 @@
-﻿My-Gitops-Profile
-Local GitOps-Managed Personal Profile
-
-Date: Jan 13, 2026
-My name is Maureen
-Meeting at 10
-Online
